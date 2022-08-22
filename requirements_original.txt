@@ -1,0 +1,28 @@
+hydra
+omegaconf
+pytorch_lightning
+hydra
+hydra-core
+hydra-core --upgrade --pre
+braceexpand
+webdataset
+transformers
+sentencepiece
+youtokentome
+pyannote.core
+pyannote.metrics
+ijson
+sacremoses
+sacrebleu
+einops
+opencc
+pangu
+ipadic
+mecab-python3
+pesq
+pystoi
+wandb
+cached_property
+pynini
+tensorflow --upgrade
+tensor
